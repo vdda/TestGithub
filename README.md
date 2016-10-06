@@ -15,7 +15,9 @@ This creates a new subdirectory named .git that contains all of your necessary r
 
 
 $ git add *.c
+
 $ git add README
+
 $ git commit -m 'initial project version'
 
 
@@ -32,7 +34,9 @@ $ git clone git://github.com/schacon/grit.git mygrit
 That command does the same thing as the previous one, but the target directory is called mygrit.
 
 $ git status
+
 $ git add README
+
 $ git commit -m "Story 182: Fix benchmarks for speed"
 
 AND
