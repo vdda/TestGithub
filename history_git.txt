@@ -1,0 +1,30 @@
+cd .gitconfig      
+git config --global user.name "MY_ID"   
+git config --global user.mail "mail@gmail.com"   
+more .gitconfig      
+git clone https://github.com/vdda/TestGithub.git     
+git status      
+git add README.md     
+git commit -help     
+git commit -m "Updated readme file for better documentation"
+git log      
+git status      
+git push -u origin master    
+git remote add origin https://github.com/vdda/TestGithub.git   
+git add README.md     
+git status      
+git commit -m "Updated readme file with line break"
+git log      
+git status      
+git push -u origin master   
+history | grep git    
+history | grep git > history_git.txt  
+
+git status
+
+git add .
+git commit -m "History of the git commands is added as a test and documentation"
+git log
+git status
+git push
+
