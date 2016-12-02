@@ -12,7 +12,6 @@ class: center, middle
 
 # Docker for Cluster Computing in Python
 
-Olivier Grisel - EuroSciPy 2016
 
 .affiliations[
   ![Inria](images/inria-logo.png)
